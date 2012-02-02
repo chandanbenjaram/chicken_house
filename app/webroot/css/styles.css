@@ -115,10 +115,12 @@ body {
 	font-size:14px;
 }
 
+
 /** END About Us page **/
 
 /** Contact Us page **/
 .contactbox{
+
 	width:650px;
 	background:#90C140;
 	margin-left:70px;
@@ -231,6 +233,7 @@ body {
 	margin-left:0px;
 }
 #locationbox{
+
 	padding-left:20px;
 }
 #googlemapbox{

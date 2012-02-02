@@ -58,6 +58,7 @@
 					Akshath Poultry Traders</div>
 				<p>We are at Hyderabad, one of the main poultry hub and our network of Agri related industries widely spread across the AndhraPradesh. Our innovative technical expertise in the industry is one of the main guiding principle of "Akshath Group". Our systems, hygienic standards and our productivity certainly match global expectations.</p>
 				<div class="aboutline">Our Product Range</div>
+
 				<p>We offer a qualitative range of meat products which are processed in our modern processing unit in hygienic conditions. All our meat products are appreciated for their high nutritional content, long shelf life, and many more features. We offer our range that includes:</p>
 				<ul>
 					<li style="list-style-image: url(img/accepted.png);">Skinless</li>
