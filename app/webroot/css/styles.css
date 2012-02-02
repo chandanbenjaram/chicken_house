@@ -1,0 +1,318 @@
+
+/* CSS Styles */
+/** Main **/
+body {
+	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
+	font-size:20px;
+}
+.main{
+	background:#90C140;
+	color:#FFFFFF;
+	height:150px;
+	margin-left:-8px;
+	margin-top:-8px;
+	margin-right:-8px;	
+}
+.mainbody{
+	width: 840px;
+	margin:auto;
+	height:auto;
+	border:1px solid #9C0140;
+}
+.mainbody2{
+	width: 840px;
+	margin:auto;
+	height:auto;
+	font-size:14px;
+	padding-top:10px;
+	margin-bottom:10px;
+	border:1px solid #9C0140;
+}
+.mainbody3{
+	width: 940px;
+	margin:auto;
+	height:auto;
+	margin-bottom:-10px;
+	border:1px solid #9C0140;
+}
+#logo{
+	margin-left:0px;
+}
+.headertable2{
+	padding-left:240px;
+	font-size:16px;
+	color:#000;
+}
+.likebuttons{
+	margin-top:5px;
+}
+/** END Main **/
+
+/** Home page **/
+
+#homeline{
+	margin-left:20px;
+	margin-top:10px;
+	margin-right:10px;
+}
+#homeline2{
+	font-size:18px;
+	color:#B32010;
+	margin-left:15px;
+}
+.homebox1{
+	background: none repeat scroll 0 0 #F0F0F0;
+    border: 1px solid #D9D9D9;
+	height:220px;
+    padding: 10px;
+    width: 220px;
+	color:#90C140;
+	font-size:15px;
+	margin-left:15px;
+	margin-bottom:30px;
+	text-align:center;
+	border-radius:4px 4px 4px 4px;
+	-webkit-box-shadow: 0px 4px 2px 1px #E2E2E2;
+	-moz-box-shadow: 0px 4px 2px 1px #E2E2E2;
+	box-shadow: 0px 4px 2px 1px #E2E2E2; 
+}
+.homebox1 a{
+	text-decoration:none;
+}
+.homebox1 button:hover{
+	cursor:pointer;
+}
+.homeimagebox{
+	margin-bottom:5px; 	
+}
+.orderbutton{
+	margin-top:10px;
+	height:30px;
+	width:150px;
+	background:#90C140;
+	color:#B32010;
+	font-weight:bold;
+	font-size:18px;
+	border-style:none;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px; 
+}
+.hometable1{
+	margin-top:20px;
+}
+/** END Home page **/
+
+/** About Us page **/
+
+#aboutgroups{
+	margin-left:20px;
+	font-size:16px;
+}
+.aboutline{
+	color:#B32010;
+	font-weight:bold;
+	font-size:14px;
+}
+
+/** END About Us page **/
+
+/** Contact Us page **/
+.contactbox{
+	width:650px;
+	background:#90C140;
+	margin-left:70px;
+	padding-left:50px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+.star{
+	color:#B32010;
+}
+.contactboxes{
+	height:28px;
+	width:210px;
+	margin-top:5px;
+	border-style:none;
+	position:relative;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.contactboxes1{
+	margin-top:5px;
+	font-size:16px;
+}
+#contacttablebox{
+	margin-left:90px;
+}
+.contactboxes2{
+	width:250px;
+	height:80px;
+	margin-top:5px;
+	border-style:none;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+.submitbutton{
+	margin-left:260px;
+	width:100px;
+	height:30px;
+	background:#B32010;
+	margin-top:10px;
+	margin-bottom:10px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-style:none;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	 border-radius: 5px;
+}
+.submitbutton:hover{
+	margin-left:260px;
+	width:100px;
+	height:30px;
+	background:#B32010;
+	margin-top:10px;
+	margin-bottom:10px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-style:none;
+	cursor:pointer;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	 border-radius: 5px;
+}
+.heading{
+	font-size:25px;
+	color:#B32010;
+	width:650px;
+	margin-left:220px;
+}
+/** END Contact Us page **/
+
+/** Locations page **/
+.locationhead{
+	font-size:25px;
+	color:#B32010;
+	padding-left:20px;
+}
+.headoffice{
+	font-size:16px;
+	color:#B32010;
+}
+.branchestable1{
+	padding-left:20px;
+	padding-top:30px;
+}
+.branchestable3{
+	padding-left:120px;
+	padding-top:30px;
+}
+.branchestable2{
+	padding-left:20px;
+	padding-top:20px;
+}
+.branchestable4{
+	padding-left:120px;
+	padding-top:20px;
+}
+.branchoffice{
+	color:#B32010;
+	margin-left:0px;
+}
+#locationbox{
+	padding-left:20px;
+}
+#googlemapbox{
+	padding-left:50px;
+}
+
+/** END Locations page **/
+
+/** Menu bar **/
+#menubar {
+	float:left;
+    background:#90C140;
+    width: 100%;
+}
+ul#menu, ul#menu li {
+    margin-left: 70px;
+    padding: 0;
+}
+ul#menu li {
+    list-style: none outside none;
+}
+ul#menu li a {
+    background:#90C140;
+    color: #FFFFFF;
+    display: block;
+    float: left;
+    font: 100% 'lucida sans unicode',arial,sans-serif;
+    height: 30px;
+	margin-top:5px;
+    letter-spacing: 0.01em;
+    padding: 5px 15px 0px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+ul#menu li a:hover, ul#menu li.selected a:hover {
+    background:#FFFFFF;
+    color: #000000;
+	-webkit-border-top-left-radius: 8px;
+	-webkit-border-top-right-radius: 8px;
+	-moz-border-radius-topleft: 8px;
+	-moz-border-radius-topright: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+.menuselected{
+	height: 35px;
+	width:auto;
+    letter-spacing: 0.01em;
+    padding:5px 15px 0px;
+    text-align: center;
+	margin-top:-5px;
+    text-decoration: none;
+    text-transform: uppercase;
+	display: block;
+    float: left;
+    font: 100% 'lucida sans unicode',arial,sans-serif;
+	background:#FFFFFF;
+    color: #000000;
+	-webkit-border-top-left-radius: 8px;
+	-webkit-border-top-right-radius: 8px;
+	-moz-border-radius-topleft: 8px;
+	-moz-border-radius-topright: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+/** END Menu bar **/
+
+/** Footer **/
+
+.footermain{
+	background:#90C140;
+	color:#FFFFFF;
+	height:auto;
+	margin-left:-8px;
+	margin-right:-8px;
+}
+#footer{
+	background:#90C140;
+	height:70px;
+	color:#000000;
+	font-size:10px;	
+	text-align:center;
+}
+/** END Footer **/
