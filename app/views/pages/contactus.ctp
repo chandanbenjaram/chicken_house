@@ -18,15 +18,12 @@
 				Working Hours: 24x7/365 days<br>
 				Contact Us: 040-64627227
 				<div class="likebuttons">
-					<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-					<a class="addthis_button_preferred_1"></a>
-					<a class="addthis_counter addthis_bubble_style"></a>
-					<a class="addthis_button_preferred_2"></a>
-					<a class="addthis_counter addthis_bubble_style"></a>
-					<a class="addthis_button_compact"></a>
-					<a class="addthis_counter addthis_bubble_style"></a>
-					</div>
-					<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f2904794bb9048f"></script>
+						<div class="addthis_toolbox addthis_default_style ">
+							<div id="facebook"><a class="addthis_button_facebook_like" addthis:url="http://localhost/chicken_house/"></a></div>
+							<div id="tweet"><a class="addthis_button_tweet" addthis:url="http://localhost/chicken_house/"></a></div>
+							<div id="share"><a class="addthis_counter addthis_pill_style" addthis:url="http://localhost/chicken_house/"></a></div>
+						</div>
+						<script type="text/javascript" src="js/likebuttons.js"></script>
 				</div>
 				</td>
 			</table>
@@ -74,6 +71,23 @@
 						<input class=contactboxes name=phone type=int required placeholder="&nbsp;Phone number">
 					</td>
 				</tr>
+				<tr>
+					<td>
+						<div class=contactboxes1><label>Item type:<span class="star">*</span></div>
+					</td>
+					<td>
+						<select class=contactboxes name=item type=text>
+						  <option id="selectoption" value="Skinless">Skinless</option>
+						  <option id="selectoption" value="with Skin">With Skin</option>
+						  <option id="selectoption" value="Boneless">Boneless</option>
+						  <option id="selectoption" value="Drumsticks">Drumsticks</option>
+						  <option id="selectoption" value="Lollipops">Lollipops</option>
+						  <option  id="selectoption" value="Wings">Wings</option>
+						  <option id="selectoption" value="Liver">Liver</option>
+						  <option id="selectoption" value="Eggs">Eggs</option>
+						</select> 
+					</td>
+				</tr>
 				
 				<tr>
 					<td>
@@ -88,27 +102,27 @@
 						<div class=contactboxes1><label>Date:<span class="star">*</span></div>
 					</td>
 					<td>
-					<div class="demo">
+					<div>
 						<input class=contactboxes id="datepicker" name=date type=date required placeholder="&nbsp;Date">
 					</div>
-					<script type="text/javascript">
-			$(function(){
+						<script type="text/javascript">
+						$(function(){
 
-				// Accordion
-				$("#accordion").accordion({ header: "h3" });
-	
-				// Tabs
-				$('#tabs').tabs();
+							// Accordion
+							$("#accordion").accordion({ header: "h3" });
+				
+							// Tabs
+							$('#tabs').tabs();
 
-				// Datepicker
-				$('#datepicker').datepicker({
-					inline: true
-				});
-				
-				
-				
-			});
-		</script>
+							// Datepicker
+							$('#datepicker').datepicker({
+								inline: true
+							});
+							
+							
+							
+						});
+					</script>
 					</td>
 				</tr>
 				<tr>
@@ -125,8 +139,8 @@
 					</td>
 					<td>
 						<select class=contactboxes name=delivery type=text>
-						  <option value="pick">Pick</option>
-						  <option value="home delivery">Home delivery</option>
+						  <option id="selectoption" value="home delivery">Home delivery</option>
+						  <option id="selectoption" value="pick">Pick</option>
 						</select> 
 					</td>
 				</tr>

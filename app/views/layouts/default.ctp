@@ -18,15 +18,12 @@
 				Working Hours: 24x7/365 days<br>
 				Contact Us: 040-64627227
 				<div class="likebuttons">
-					<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-					<a class="addthis_button_preferred_1"></a>
-					<a class="addthis_counter addthis_bubble_style"></a>
-					<a class="addthis_button_preferred_2"></a>
-					<a class="addthis_counter addthis_bubble_style"></a>
-					<a class="addthis_button_compact"></a>
-					<a class="addthis_counter addthis_bubble_style"></a>
-					</div>
-					<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f2904794bb9048f"></script>
+						<div class="addthis_toolbox addthis_default_style ">
+							<div id="facebook"><a class="addthis_button_facebook_like" addthis:url="http://localhost/chicken_house/"></a></div>
+							<div id="tweet"><a class="addthis_button_tweet" addthis:url="http://localhost/chicken_house/"></a></div>
+							<div id="share"><a class="addthis_counter addthis_pill_style" addthis:url="http://localhost/chicken_house/"></a></div>
+						</div>
+						<script type="text/javascript" src="js/likebuttons.js"></script>
 				</div>
 				</td>
 			</table>
@@ -65,7 +62,7 @@
 						<td>
 							<div class="homebox1">
 							Skinless<br>
-							<span class="homeimagebox"><img src="img/skinless.jpg"></span><br>
+							<span class="homeimagebox"><img src="img/skin.jpg"></span><br>
 							<a href="ContactUs"><button class="orderbutton">ORDER NOW</button></a>
 							</div>
 						</td>
@@ -108,6 +105,20 @@
 						</td>
 					</tr>
 				</table>
+				<div>
+					<table>
+						<td>
+							<div id="offimage"><img src="img/off.png"/></div>
+							print discountcard and show in counter to get 5rs discount on 1kg chicken. 
+						</td>
+						<td>
+							<script type="text/javascript" src="js/imageprint.js"></script>
+							<div id="discountimage">Click on Image to print
+							<img src="img/discountcard.png" onclick="printme(event)" alt="Discountcard"/>
+							</div>
+						</td>
+					</table>
+				</div>
 			</div>
 		</div>
 	<div class="footermain">

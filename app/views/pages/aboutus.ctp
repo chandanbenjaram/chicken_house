@@ -18,15 +18,12 @@
 				Working Hours: 24x7/365 days<br>
 				Contact Us: 040-64627227
 				<div class="likebuttons">
-					<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
-					<a class="addthis_button_preferred_1"></a>
-					<a class="addthis_counter addthis_bubble_style"></a>
-					<a class="addthis_button_preferred_2"></a>
-					<a class="addthis_counter addthis_bubble_style"></a>
-					<a class="addthis_button_compact"></a>
-					<a class="addthis_counter addthis_bubble_style"></a>
-					</div>
-					<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f2904794bb9048f"></script>
+						<div class="addthis_toolbox addthis_default_style ">
+							<div id="facebook"><a class="addthis_button_facebook_like" addthis:url="http://localhost/chicken_house/"></a></div>
+							<div id="tweet"><a class="addthis_button_tweet" addthis:url="http://localhost/chicken_house/"></a></div>
+							<div id="share"><a class="addthis_counter addthis_pill_style" addthis:url="http://localhost/chicken_house/"></a></div>
+						</div>
+						<script type="text/javascript" src="js/likebuttons.js"></script>
 				</div>
 				</td>
 			</table>
