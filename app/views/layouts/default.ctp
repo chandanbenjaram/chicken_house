@@ -32,7 +32,7 @@
 		<div class="mainbody">
 			<table>
 				<td>
-					<span id="logo"><img src="img/logohouse.png"/></span>
+					<span id="logo"><img src="img/logo.png"/></span>
 				</td>
 				<td class="headertable2">
 				Working Hours: 24x7/365 days<br>
@@ -129,7 +129,7 @@
 					<table>
 						<td>
 							<div id="offimage"><img src="img/off.png"/></div>
-							print discountcard and show in counter to get 5rs discount on 1kg chicken. 
+							print discountcard and show in counter to get 5rs discount on 1kg of chicken. 
 						</td>
 						<td>
 							<script type="text/javascript" src="js/imageprint.js"></script>
@@ -148,7 +148,7 @@
 					<img src="img/creditcards1.png" height="50px;">
 				</div>
 				<footer>&#169; 2012 Chicken House. All rights reserved.</footer>
-					<div id="footeradd">Powered by <a href="http://www.maisasolutions.com" target="_blank"><img src="img/poweredbylogo.png"/></a><Maisa Solutions></div>
+					<div id="footeradd">Powered by <a href="http://www.maisasolutions.com" target="_blank"><img src="img/poweredbylogo1.png"/></a><Maisa Solutions></div>
 			</div>
 		</div>
 	</div>

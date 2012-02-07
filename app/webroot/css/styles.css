@@ -33,10 +33,10 @@ body {
 	margin-bottom:-10px;
 }
 #logo{
-	margin-left:0px;
+	margin-left:10px;
 }
 .headertable2{
-	padding-left:250px;
+	padding-left:240px;
 	font-size:16px;
 	color:#000;
 }
@@ -269,6 +269,7 @@ body {
 	float:left;
     background:#90C140;
     width: 100%;
+    margin-top:-20px;
 }
 ul#menu, ul#menu li {
     margin-left: 70px;

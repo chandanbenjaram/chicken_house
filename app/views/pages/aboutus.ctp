@@ -5,7 +5,7 @@
 	<title>Chicken House AboutUs - Fresh Chicken@Best Price</title>
 	<meta name="language" content="EN" />
 
-	<meta name="description" content="Chicken House is group of Akshath Poultry Traders and Maisamma Poultry Traders in Hyderabad India" />
+	<meta name="description" content="Chicken House is Unit of Akshath Poultry Traders and Maisamma Poultry Traders in Hyderabad India" />
 	<meta name="keywords" content="Fresh Chicken, Chicken Shop, Fresh Frozen Chicken, Skinless Chicken, Chicken Shops, Fresh Meat" />
 	<meta name="author" content="chickenhouse.co.in">
 	<meta name="robots" content="index, follow">
@@ -32,7 +32,7 @@
 		<div class="mainbody">
 				<table>
 				<td>
-					<span id="logo"><img src="img/logohouse.png"/></span>
+					<span id="logo"><img src="img/logo.png"/></span>
 				</td>
 				<td class="headertable2">
 				Working Hours: 24x7/365 days<br>
@@ -113,7 +113,7 @@
 					<img src="img/creditcards1.png" height="50px;">
 				</div>
 				<footer>&#169; 2012 Chicken House. All rights reserved.</footer>
-					<div id="footeradd">Powered by <a href="http://www.maisasolutions.com" target="_blank"><img src="img/poweredbylogo.png"/></a><Maisa Solutions></div>
+					<div id="footeradd">Powered by <a href="http://www.maisasolutions.com" target="_blank"><img src="img/poweredbylogo1.png"/></a><Maisa Solutions></div>
 			</div>	
 		</div>
 	</div>
