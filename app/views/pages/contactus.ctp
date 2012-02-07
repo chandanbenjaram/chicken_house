@@ -193,7 +193,7 @@
 					<img src="img/creditcards1.png" height="50px;">
 				</div>
 				<footer>&#169; 2012 Chicken House. All rights reserved.</footer>
-					<div id="footeradd">Powered by <a href="http://www.maisasolutions.com" target="_blank"><img src="img/poweredbylogo1.png"/></a><Maisa Solutions></div>
+					<div id="footeradd"><a href="http://www.maisasolutions.com" target="_blank"><img src="img/poweredbylogo1.png"/></a><Maisa Solutions></div>
 			</div>	
 		</div>
 	</div>

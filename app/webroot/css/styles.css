@@ -116,6 +116,12 @@ body {
 #offimage{
 	margin-left:70px;
 }
+#savemoney{
+	padding-left:50px;
+}
+#discount{
+	padding-left:50px;
+}
 #discountimage{
 	margin-left:70px;
 }
@@ -343,7 +349,7 @@ ul#menu li a:hover, ul#menu li.selected a:hover {
 }
 #footeradd{
 	text-align:right;
-	margin-right:100px;
+	margin-right:80px;
 	font-size:11px;
 	color:#000;
 	background:#90C140;
