@@ -1,11 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	
-	<title>
-		Chicken House
-	</title>
+	<meta charset="utf-8" />
+	<title>Chicken House Online Order Form - Fresh Chicken@Best Price</title>
+	<meta name="language" content="EN" />
+
+	<meta name="description" content="Chicken House - ContactUs for Order and get Home Delivery" />
+	<meta name="keywords" content="Fresh Chicken, Chicken Shop, Fresh Frozen Chicken, Skinless Chicken, Chicken Shops, Fresh Meat" />
+	<meta name="author" content="chickenhouse.co.in">
+	<meta name="robots" content="index, follow">
+	<meta name="revisit-after" content="7 days">
+	<meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
+
 	<link rel="stylesheet" type="text/css" href="css/styles.css" />
+	<link rel="shortcut icon" href="img/chickenlogo.ico" type="image/x-icon" />  
+	
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-25285304-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>	
 </head>
 <body>
 	<div class="main">
@@ -138,7 +158,7 @@
 						<div class=contactboxes1><label>Delivery type:<span class="star">*</span></div>
 					</td>
 					<td>
-						<select class=contactboxes name=delivery type=text>
+						<select class=contactboxes name=deliverytype type=text>
 						  <option id="selectoption" value="home delivery">Home delivery</option>
 						  <option id="selectoption" value="pick">Pick</option>
 						</select> 
@@ -157,7 +177,7 @@
 						<div class=contactboxes1><label>Notes, if any:<span class="star">*</span></div>
 					</td>
 					<td>
-						<textarea style="max-width: 250px" cols="30" rows="3" class=contactboxes2 name=feedback type=text placeholder="&nbsp;Notes, if any"></textarea>
+						<textarea style="max-width: 250px" cols="30" rows="3" class=contactboxes2 name=notes type=text placeholder="&nbsp;Notes, if any"></textarea>
 					</td>
 				</tr>
 				</table>
@@ -172,7 +192,8 @@
 				<div id="creditcards">
 					<img src="img/creditcards1.png" height="50px;">
 				</div>
-				<footer>&#169; 2012 Chicken House. All rights reserved.<footer>
+				<footer>&#169; 2012 Chicken House. All rights reserved.</footer>
+					<div id="footeradd">Powered by <a href="http://www.maisasolutions.com" target="_blank"><img src="img/poweredbylogo.png"/></a><Maisa Solutions></div>
 			</div>	
 		</div>
 	</div>

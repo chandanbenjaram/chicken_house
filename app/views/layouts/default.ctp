@@ -1,11 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	
-	<title>
-		Chicken House
-	</title>
+	<meta charset="utf-8" />
+	<title>Chicken House - Fresh Chicken@Best Price</title>
+	<meta name="language" content="EN" />
+
+	<meta name="description" content="Chicken House is one of th largest Wholesale & Retail outlets in all areas of hyderabad" />
+	<meta name="keywords" content="Fresh Chicken, Chicken Shop, Fresh Frozen Chicken, Skinless Chicken, Chicken Shops, Fresh Meat" />
+	<meta name="author" content="chickenhouse.co.in">
+	<meta name="robots" content="index, follow">
+	<meta name="revisit-after" content="7 days">
+	<meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
+
 	<link rel="stylesheet" type="text/css" href="css/styles.css" />
+	<link rel="shortcut icon" href="img/chickenlogo.ico" type="image/x-icon" />  
+	
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-25285304-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>	
 </head>
 <body>
 	<div class="main">
@@ -127,8 +147,9 @@
 				<div id="creditcards">
 					<img src="img/creditcards1.png" height="50px;">
 				</div>
-				<footer>&#169; 2012 Chicken House. All rights reserved.<footer>
-			</div>	
+				<footer>&#169; 2012 Chicken House. All rights reserved.</footer>
+					<div id="footeradd">Powered by <a href="http://www.maisasolutions.com" target="_blank"><img src="img/poweredbylogo.png"/></a><Maisa Solutions></div>
+			</div>
 		</div>
 	</div>
 	
