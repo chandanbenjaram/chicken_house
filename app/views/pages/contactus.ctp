@@ -10,22 +10,10 @@
 	<meta name="author" content="chickenhouse.co.in">
 	<meta name="robots" content="index, follow">
 	<meta name="revisit-after" content="7 days">
-	<meta name="msvalidate.01" content="F85A57D9955372C1B336AE5022CFA3A2" />
 
 	<link rel="stylesheet" type="text/css" href="css/styles.css" />
 	<link rel="shortcut icon" href="img/chickenlogo.ico" type="image/x-icon" />  
 	
-	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-25285304-1']);
-	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	</script>	
 </head>
 <body>
 	<div class="main">
